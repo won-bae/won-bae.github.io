@@ -5,12 +5,20 @@
     <link>https://won-bae.github.io/authors/admin/</link>
       <atom:link href="https://won-bae.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 04:41:24 -0400</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>Academic</title>
       <link>https://won-bae.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Detection</title>
+      <link>https://won-bae.github.io/publication/detection/</link>
+      <pubDate>Sat, 19 Oct 2019 04:41:24 -0400</pubDate>
+      <guid>https://won-bae.github.io/publication/detection/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
