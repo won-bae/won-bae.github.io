@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://won-bae.github.io/tags/generative-adversarial-network/</loc>
+    <lastmod>2019-10-19T04:41:24-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://won-bae.github.io/authors/gunhee-kim/</loc>
     <lastmod>2019-10-19T04:41:24-04:00</lastmod>
   </url>
@@ -53,6 +58,21 @@
   </url>
   
   <url>
+    <loc>https://won-bae.github.io/tags/small-object-detection/</loc>
+    <lastmod>2019-10-19T04:41:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/tags/super-resolution/</loc>
+    <lastmod>2019-10-19T04:41:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/tags/</loc>
+    <lastmod>2019-10-19T04:41:24-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://won-bae.github.io/authors/wonhee-lee/</loc>
     <lastmod>2019-10-19T04:41:24-04:00</lastmod>
   </url>
@@ -67,10 +87,6 @@
   
   <url>
     <loc>https://won-bae.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/tags/</loc>
   </url>
   
 </urlset>
