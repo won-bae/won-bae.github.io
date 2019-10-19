@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gunhee Kim | </title>
+    <title>Gunhee Kim | WB</title>
     <link>https://won-bae.github.io/authors/gunhee-kim/</link>
       <atom:link href="https://won-bae.github.io/authors/gunhee-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Gunhee Kim</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 04:41:24 -0400</lastBuildDate>
     <image>
-      <url>https://won-bae.github.io/img/logo.jpg</url>
+      <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>Gunhee Kim</title>
       <link>https://won-bae.github.io/authors/gunhee-kim/</link>
     </image>
