@@ -82,11 +82,27 @@
   </url>
   
   <url>
+    <loc>https://won-bae.github.io/tags/class-activation-map/</loc>
+  </url>
+  
+  <url>
     <loc>https://won-bae.github.io/post/</loc>
   </url>
   
   <url>
     <loc>https://won-bae.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/publication/wsol/</loc>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/tags/weakly-supervised-object-localization/</loc>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/authors/wonho-bae/</loc>
   </url>
   
 </urlset>
