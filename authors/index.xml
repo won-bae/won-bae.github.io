@@ -77,5 +77,29 @@
 </description>
     </item>
     
+    <item>
+      <title>...</title>
+      <link>https://won-bae.github.io/authors/.../</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/.../</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyung Don Yoo</title>
+      <link>https://won-bae.github.io/authors/kyung-don-yoo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/kyung-don-yoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YonSu Kim</title>
+      <link>https://won-bae.github.io/authors/yonsu-kim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/yonsu-kim/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

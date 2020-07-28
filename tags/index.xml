@@ -52,5 +52,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Machine Learning</title>
+      <link>https://won-bae.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival Analysis</title>
+      <link>https://won-bae.github.io/tags/survival-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/tags/survival-analysis/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

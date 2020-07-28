@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>... | WB</title>
+    <link>https://won-bae.github.io/authors/.../</link>
+      <atom:link href="https://won-bae.github.io/authors/.../index.xml" rel="self" type="application/rss+xml" />
+    <description>...</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://won-bae.github.io/img/icon-192.png</url>
+      <title>...</title>
+      <link>https://won-bae.github.io/authors/.../</link>
+    </image>
+    
+    <item>
+      <title>Prediction of the Mortality Risk in Peritoneal Dialysis Patients using Machine Learning Models: A Nation-wide Prospective Cohort in Korea</title>
+      <link>https://won-bae.github.io/publication/medical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/medical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
