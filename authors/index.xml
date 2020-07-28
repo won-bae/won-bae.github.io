@@ -5,7 +5,7 @@
     <link>https://won-bae.github.io/authors/</link>
       <atom:link href="https://won-bae.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>...</title>
-      <link>https://won-bae.github.io/authors/.../</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/.../</guid>
+      <title>Gunhee Kim</title>
+      <link>https://won-bae.github.io/authors/gunhee-kim/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/gunhee-kim/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gunhee Kim</title>
-      <link>https://won-bae.github.io/authors/gunhee-kim/</link>
+      <title>Junhyug Noh\*</title>
+      <link>https://won-bae.github.io/authors/junhyug-noh%5C/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/junhyug-noh%5C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wonho Bae\*</title>
+      <link>https://won-bae.github.io/authors/wonho-bae%5C/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/wonho-bae%5C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>...</title>
+      <link>https://won-bae.github.io/authors/.../</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/gunhee-kim/</guid>
+      <guid>https://won-bae.github.io/authors/.../</guid>
       <description></description>
     </item>
     
