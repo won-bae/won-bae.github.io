@@ -3,12 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://won-bae.github.io/publication_types/1/</loc>
-    <lastmod>2019-10-19T04:41:24-04:00</lastmod>
+    <loc>https://won-bae.github.io/authors/.../</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/publication_types/2/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://won-bae.github.io/authors/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/categories/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/authors/gunhee-kim/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/authors/junhyug-noh/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/authors/kyung-don-yoo/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/categories/machine-learning/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/tags/machine-learning/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/publication/medical/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/publication_types/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/publication/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/tags/survival-analysis/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/tags/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/authors/wonho-bae/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/authors/yonsu-kim/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/publication_types/1/</loc>
     <lastmod>2019-10-19T04:41:24-04:00</lastmod>
   </url>
   
@@ -23,27 +103,7 @@
   </url>
   
   <url>
-    <loc>https://won-bae.github.io/authors/gunhee-kim/</loc>
-    <lastmod>2019-10-19T04:41:24-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://won-bae.github.io/authors/jinhwan-seo/</loc>
-    <lastmod>2019-10-19T04:41:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/authors/junhyug-noh/</loc>
-    <lastmod>2019-10-19T04:41:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/publication_types/</loc>
-    <lastmod>2019-10-19T04:41:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/publication/</loc>
     <lastmod>2019-10-19T04:41:24-04:00</lastmod>
   </url>
   
@@ -58,58 +118,8 @@
   </url>
   
   <url>
-    <loc>https://won-bae.github.io/tags/</loc>
-    <lastmod>2019-10-19T04:41:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/</loc>
-    <lastmod>2019-10-19T04:41:24-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://won-bae.github.io/authors/wonhee-lee/</loc>
     <lastmod>2019-10-19T04:41:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/authors/wonho-bae/</loc>
-    <lastmod>2019-10-19T04:41:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/categories/</loc>
-    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/tags/class-activation-map/</loc>
-    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/authors/junhyug-noh%5C/</loc>
-    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/publication/wsol/</loc>
-    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/categories/weakly-supervised-learning/</loc>
-    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/tags/weakly-supervised-object-localization/</loc>
-    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/authors/wonho-bae%5C/</loc>
-    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -117,43 +127,11 @@
   </url>
   
   <url>
-    <loc>https://won-bae.github.io/authors/.../</loc>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/publication_types/2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/authors/kyung-don-yoo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/tags/machine-learning/</loc>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/categories/machine-learning/</loc>
-  </url>
-  
-  <url>
     <loc>https://won-bae.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>https://won-bae.github.io/publication/medical/</loc>
-  </url>
-  
-  <url>
     <loc>https://won-bae.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/tags/survival-analysis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/authors/yonsu-kim/</loc>
   </url>
   
 </urlset>

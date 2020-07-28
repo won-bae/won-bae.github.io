@@ -5,7 +5,7 @@
     <link>https://won-bae.github.io/</link>
       <atom:link href="https://won-bae.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>WB</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 04:41:24 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>WB</title>
@@ -13,26 +13,18 @@
     </image>
     
     <item>
+      <title>Prediction of the Mortality Risk in Peritoneal Dialysis Patients using Machine Learning Models: A Nation-wide Prospective Cohort in Korea</title>
+      <link>https://won-bae.github.io/publication/medical/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/medical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detection</title>
       <link>https://won-bae.github.io/publication/detection/</link>
       <pubDate>Sat, 19 Oct 2019 04:41:24 -0400</pubDate>
       <guid>https://won-bae.github.io/publication/detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rethinking Class Activations Mapping for Weakly Supervised Object Localization</title>
-      <link>https://won-bae.github.io/publication/wsol/</link>
-      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/publication/wsol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction of the Mortality Risk in Peritoneal Dialysis Patients using Machine Learning Models: A Nation-wide Prospective Cohort in Korea</title>
-      <link>https://won-bae.github.io/publication/medical/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/publication/medical/</guid>
       <description></description>
     </item>
     
