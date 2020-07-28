@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wonho Bae\* | WB</title>
+    <link>https://won-bae.github.io/authors/wonho-bae%5C/</link>
+      <atom:link href="https://won-bae.github.io/authors/wonho-bae%5C/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wonho Bae\*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://won-bae.github.io/img/icon-192.png</url>
+      <title>Wonho Bae\*</title>
+      <link>https://won-bae.github.io/authors/wonho-bae%5C/</link>
+    </image>
+    
+    <item>
+      <title>Rethinking Class Activations Mapping for Weakly Supervised Object Localization</title>
+      <link>https://won-bae.github.io/publication/wsol/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/wsol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

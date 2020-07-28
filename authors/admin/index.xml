@@ -5,20 +5,12 @@
     <link>https://won-bae.github.io/authors/admin/</link>
       <atom:link href="https://won-bae.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>WB</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 04:41:24 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>WB</title>
       <link>https://won-bae.github.io/authors/admin/</link>
     </image>
-    
-    <item>
-      <title>Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detection</title>
-      <link>https://won-bae.github.io/publication/detection/</link>
-      <pubDate>Sat, 19 Oct 2019 04:41:24 -0400</pubDate>
-      <guid>https://won-bae.github.io/publication/detection/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
