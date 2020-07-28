@@ -5,12 +5,20 @@
     <link>https://won-bae.github.io/categories/</link>
       <atom:link href="https://won-bae.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://won-bae.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>Weakly Supervised Learning</title>
+      <link>https://won-bae.github.io/categories/weakly-supervised-learning/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/categories/weakly-supervised-learning/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -79,10 +79,27 @@
   
   <url>
     <loc>https://won-bae.github.io/categories/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://won-bae.github.io/tags/class-activation-map/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/publication/wsol/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/categories/weakly-supervised-learning/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://won-bae.github.io/tags/weakly-supervised-object-localization/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -91,18 +108,6 @@
   
   <url>
     <loc>https://won-bae.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/publication/wsol/</loc>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/tags/weakly-supervised-object-localization/</loc>
-  </url>
-  
-  <url>
-    <loc>https://won-bae.github.io/authors/wonho-bae/</loc>
   </url>
   
 </urlset>
