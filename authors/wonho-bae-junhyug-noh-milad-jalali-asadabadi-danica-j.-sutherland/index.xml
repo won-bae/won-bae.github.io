@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wonho Bae, Junhyug Noh, Milad Jalali Asadabadi, Danica J. Sutherland | Won&#39;s Page</title>
+    <link>https://won-bae.github.io/authors/wonho-bae-junhyug-noh-milad-jalali-asadabadi-danica-j.-sutherland/</link>
+      <atom:link href="https://won-bae.github.io/authors/wonho-bae-junhyug-noh-milad-jalali-asadabadi-danica-j.-sutherland/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wonho Bae, Junhyug Noh, Milad Jalali Asadabadi, Danica J. Sutherland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://won-bae.github.io/img/icon-192.png</url>
+      <title>Wonho Bae, Junhyug Noh, Milad Jalali Asadabadi, Danica J. Sutherland</title>
+      <link>https://won-bae.github.io/authors/wonho-bae-junhyug-noh-milad-jalali-asadabadi-danica-j.-sutherland/</link>
+    </image>
+    
+    <item>
+      <title>One Weird Trick to Improve Your Semi-Weakly Supervised Semantic Segmentation Model.     IJCAI 2022</title>
+      <link>https://won-bae.github.io/publication/swsss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/swsss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

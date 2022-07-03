@@ -28,5 +28,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Object Discovery via Contrastive Learning for Weakly Supervised Object Detection.     ECCV 2022</title>
+      <link>https://won-bae.github.io/publication/wsss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/wsss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Weird Trick to Improve Your Semi-Weakly Supervised Semantic Segmentation Model.     IJCAI 2022</title>
+      <link>https://won-bae.github.io/publication/swsss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/swsss/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
