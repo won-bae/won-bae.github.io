@@ -5,52 +5,12 @@
     <link>https://won-bae.github.io/tags/</link>
       <atom:link href="https://won-bae.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://won-bae.github.io/tags/</link>
     </image>
-    
-    <item>
-      <title>Class Activation Map</title>
-      <link>https://won-bae.github.io/tags/class-activation-map/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/tags/class-activation-map/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weakly Supervised Object Localization</title>
-      <link>https://won-bae.github.io/tags/weakly-supervised-object-localization/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/tags/weakly-supervised-object-localization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generative Adversarial Network</title>
-      <link>https://won-bae.github.io/tags/generative-adversarial-network/</link>
-      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/tags/generative-adversarial-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Small Object Detection</title>
-      <link>https://won-bae.github.io/tags/small-object-detection/</link>
-      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/tags/small-object-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Super Resolution</title>
-      <link>https://won-bae.github.io/tags/super-resolution/</link>
-      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/tags/super-resolution/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

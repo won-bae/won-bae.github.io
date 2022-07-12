@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jinhwan Seo | WB</title>
+    <title>Jinhwan Seo | Won&#39;s Page</title>
     <link>https://won-bae.github.io/authors/jinhwan-seo/</link>
       <atom:link href="https://won-bae.github.io/authors/jinhwan-seo/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinhwan Seo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 04:41:24 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>Jinhwan Seo</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detection.  ICCV 2019.</title>
-      <link>https://won-bae.github.io/publication/detection/</link>
-      <pubDate>Sat, 19 Oct 2019 04:41:24 -0400</pubDate>
-      <guid>https://won-bae.github.io/publication/detection/</guid>
+      <title>Object Discovery via Contrastive Learning for Weakly Supervised Object Detection</title>
+      <link>https://won-bae.github.io/publication/seo-2022-cl-wsod/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/seo-2022-cl-wsod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better to follow, follow to be better: Towards precise supervision of feature super-resolution for small object detection</title>
+      <link>https://won-bae.github.io/publication/noh-2019-better/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/noh-2019-better/</guid>
       <description></description>
     </item>
     

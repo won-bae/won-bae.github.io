@@ -5,7 +5,7 @@
     <link>https://won-bae.github.io/authors/</link>
       <atom:link href="https://won-bae.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,34 +13,154 @@
     </image>
     
     <item>
+      <title>&lt;strong&gt;Wonho Bae*&lt;/strong&gt;</title>
+      <link>https://won-bae.github.io/authors/strongwonho-bae/strong/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/strongwonho-bae/strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daijin Kim</title>
+      <link>https://won-bae.github.io/authors/daijin-kim/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/daijin-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danica J. Sutherland</title>
+      <link>https://won-bae.github.io/authors/danica-j.-sutherland/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/danica-j.-sutherland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinhwan Seo</title>
+      <link>https://won-bae.github.io/authors/jinhwan-seo/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/jinhwan-seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junhyug Noh*</title>
+      <link>https://won-bae.github.io/authors/junhyug-noh/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/junhyug-noh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danica J Sutherland</title>
+      <link>https://won-bae.github.io/authors/danica-j-sutherland/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/danica-j-sutherland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milad Jalali Asadabadi</title>
+      <link>https://won-bae.github.io/authors/milad-jalali-asadabadi/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/milad-jalali-asadabadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohamad Amin Mohamadi*</title>
+      <link>https://won-bae.github.io/authors/mohamad-amin-mohamadi/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/mohamad-amin-mohamadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> others</title>
+      <link>https://won-bae.github.io/authors/others/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chun Soo Lim</title>
+      <link>https://won-bae.github.io/authors/chun-soo-lim/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/chun-soo-lim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dong Ki Kim</title>
+      <link>https://won-bae.github.io/authors/dong-ki-kim/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/dong-ki-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hajeong Lee</title>
+      <link>https://won-bae.github.io/authors/hajeong-lee/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/hajeong-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jang-Hee Cho</title>
+      <link>https://won-bae.github.io/authors/jang-hee-cho/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/jang-hee-cho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jong Soo Lee</title>
+      <link>https://won-bae.github.io/authors/jong-soo-lee/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/jong-soo-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kangil Kim</title>
+      <link>https://won-bae.github.io/authors/kangil-kim/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/kangil-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyung Don Yoo</title>
+      <link>https://won-bae.github.io/authors/kyung-don-yoo/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/kyung-don-yoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shin-Wook Kang</title>
+      <link>https://won-bae.github.io/authors/shin-wook-kang/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/shin-wook-kang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gunhee Kim</title>
       <link>https://won-bae.github.io/authors/gunhee-kim/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://won-bae.github.io/authors/gunhee-kim/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Junhyug Noh\*</title>
-      <link>https://won-bae.github.io/authors/junhyug-noh%5C/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/junhyug-noh%5C/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wonho Bae\*</title>
-      <link>https://won-bae.github.io/authors/wonho-bae%5C/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/wonho-bae%5C/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Junhyug Noh, &lt;em&gt;Wonho Bae&lt;/em&gt;, Wonhee Lee, Jinhwan Seo, Gunhee Kim</title>
-      <link>https://won-bae.github.io/authors/junhyug-noh-emwonho-bae/em-wonhee-lee-jinhwan-seo-gunhee-kim/</link>
-      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/junhyug-noh-emwonho-bae/em-wonhee-lee-jinhwan-seo-gunhee-kim/</guid>
+      <title>Wonhee Lee</title>
+      <link>https://won-bae.github.io/authors/wonhee-lee/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/wonhee-lee/</guid>
       <description></description>
     </item>
     

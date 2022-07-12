@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohamad Amin Mohamadi* | Won&#39;s Page</title>
+    <link>https://won-bae.github.io/authors/mohamad-amin-mohamadi/</link>
+      <atom:link href="https://won-bae.github.io/authors/mohamad-amin-mohamadi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohamad Amin Mohamadi*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://won-bae.github.io/img/icon-192.png</url>
+      <title>Mohamad Amin Mohamadi*</title>
+      <link>https://won-bae.github.io/authors/mohamad-amin-mohamadi/</link>
+    </image>
+    
+    <item>
+      <title>Making Look-Ahead Active Learning Strategies Feasible with Neural Tangent Kernels</title>
+      <link>https://won-bae.github.io/publication/mohamadi-2022-making/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/mohamadi-2022-making/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
