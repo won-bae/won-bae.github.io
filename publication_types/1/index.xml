@@ -5,7 +5,7 @@
     <link>https://won-bae.github.io/publication_types/1/</link>
       <atom:link href="https://won-bae.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>1</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Object Discovery via Contrastive Learning for Weakly Supervised Object Detection</title>
-      <link>https://won-bae.github.io/publication/seo-2022-cl-wsod/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/publication/seo-2022-cl-wsod/</guid>
+      <title>Making Look-Ahead Active Learning Strategies Feasible with Neural Tangent Kernels</title>
+      <link>https://won-bae.github.io/publication/mohamadi-2022-making/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/mohamadi-2022-making/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Making Look-Ahead Active Learning Strategies Feasible with Neural Tangent Kernels</title>
-      <link>https://won-bae.github.io/publication/mohamadi-2022-making/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/publication/mohamadi-2022-making/</guid>
+      <title>Object Discovery via Contrastive Learning for Weakly Supervised Object Detection</title>
+      <link>https://won-bae.github.io/publication/seo-2022-cl-wsod/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/seo-2022-cl-wsod/</guid>
       <description></description>
     </item>
     

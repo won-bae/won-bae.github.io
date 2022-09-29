@@ -5,7 +5,7 @@
     <link>https://won-bae.github.io/authors/</link>
       <atom:link href="https://won-bae.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,24 @@
     <item>
       <title>&lt;strong&gt;Wonho Bae*&lt;/strong&gt;</title>
       <link>https://won-bae.github.io/authors/strongwonho-bae/strong/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://won-bae.github.io/authors/strongwonho-bae/strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danica J Sutherland</title>
+      <link>https://won-bae.github.io/authors/danica-j-sutherland/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/danica-j-sutherland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohamad Amin Mohamadi*</title>
+      <link>https://won-bae.github.io/authors/mohamad-amin-mohamadi/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/mohamad-amin-mohamadi/</guid>
       <description></description>
     </item>
     
@@ -53,26 +69,10 @@
     </item>
     
     <item>
-      <title>Danica J Sutherland</title>
-      <link>https://won-bae.github.io/authors/danica-j-sutherland/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/danica-j-sutherland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Milad Jalali Asadabadi</title>
       <link>https://won-bae.github.io/authors/milad-jalali-asadabadi/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://won-bae.github.io/authors/milad-jalali-asadabadi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mohamad Amin Mohamadi*</title>
-      <link>https://won-bae.github.io/authors/mohamad-amin-mohamadi/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/mohamad-amin-mohamadi/</guid>
       <description></description>
     </item>
     
