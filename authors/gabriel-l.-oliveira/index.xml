@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel L. Oliveira | Won&#39;s Page</title>
+    <link>https://won-bae.github.io/authors/gabriel-l.-oliveira/</link>
+      <atom:link href="https://won-bae.github.io/authors/gabriel-l.-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriel L. Oliveira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://won-bae.github.io/img/icon-192.png</url>
+      <title>Gabriel L. Oliveira</title>
+      <link>https://won-bae.github.io/authors/gabriel-l.-oliveira/</link>
+    </image>
+    
+    <item>
+      <title>Meta Temporal Point Processes</title>
+      <link>https://won-bae.github.io/publication/bae-2023-metatpp/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/bae-2023-metatpp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
