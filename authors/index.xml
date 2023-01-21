@@ -5,7 +5,7 @@
     <link>https://won-bae.github.io/authors/</link>
       <atom:link href="https://won-bae.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,32 @@
     <item>
       <title>&lt;strong&gt;Wonho Bae&lt;/strong&gt;</title>
       <link>https://won-bae.github.io/authors/strongwonho-bae/strong/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       <guid>https://won-bae.github.io/authors/strongwonho-bae/strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frederick Tung</title>
+      <link>https://won-bae.github.io/authors/frederick-tung/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/frederick-tung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabriel L. Oliveira</title>
+      <link>https://won-bae.github.io/authors/gabriel-l.-oliveira/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/gabriel-l.-oliveira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohamed Osama Ahmed</title>
+      <link>https://won-bae.github.io/authors/mohamed-osama-ahmed/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/mohamed-osama-ahmed/</guid>
       <description></description>
     </item>
     
@@ -25,30 +49,6 @@
       <link>https://won-bae.github.io/authors/danica-j-sutherland/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://won-bae.github.io/authors/danica-j-sutherland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Frederick Tung</title>
-      <link>https://won-bae.github.io/authors/frederick-tung/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/frederick-tung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gabriel L. Oliveira</title>
-      <link>https://won-bae.github.io/authors/gabriel-l.-oliveira/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/gabriel-l.-oliveira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mohamed Osama Ahmed</title>
-      <link>https://won-bae.github.io/authors/mohamed-osama-ahmed/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/mohamed-osama-ahmed/</guid>
       <description></description>
     </item>
     
