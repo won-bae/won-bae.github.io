@@ -5,12 +5,20 @@
     <link>https://won-bae.github.io/authors/junhyug-noh/</link>
       <atom:link href="https://won-bae.github.io/authors/junhyug-noh/index.xml" rel="self" type="application/rss+xml" />
     <description>Junhyug Noh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>Junhyug Noh</title>
       <link>https://won-bae.github.io/authors/junhyug-noh/</link>
     </image>
+    
+    <item>
+      <title>Generalized Coverage for More Robust Low-Budget Active Learning</title>
+      <link>https://won-bae.github.io/publication/bae-2024-maxherding/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/bae-2024-maxherding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Object Discovery via Contrastive Learning for Weakly Supervised Object Detection</title>
@@ -49,14 +57,6 @@
       <link>https://won-bae.github.io/publication/noh-2019-better/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://won-bae.github.io/publication/noh-2019-better/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generalized Coverage for More Robust Low-Budget Active Learning</title>
-      <link>https://won-bae.github.io/publication/bae-2024-maxherding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/publication/bae-2024-maxherding/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://won-bae.github.io/authors/</link>
       <atom:link href="https://won-bae.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 11:18:27 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,32 @@
     <item>
       <title>&lt;strong&gt;Wonho Bae&lt;/strong&gt;</title>
       <link>https://won-bae.github.io/authors/strongwonho-bae/strong/</link>
-      <pubDate>Mon, 01 May 2023 11:18:27 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://won-bae.github.io/authors/strongwonho-bae/strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danica J. Sutherland</title>
+      <link>https://won-bae.github.io/authors/danica-j.-sutherland/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/danica-j.-sutherland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Wang</title>
+      <link>https://won-bae.github.io/authors/jing-wang/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/jing-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junhyug Noh</title>
+      <link>https://won-bae.github.io/authors/junhyug-noh/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/junhyug-noh/</guid>
       <description></description>
     </item>
     
@@ -85,26 +109,10 @@
     </item>
     
     <item>
-      <title>Danica J. Sutherland</title>
-      <link>https://won-bae.github.io/authors/danica-j.-sutherland/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/danica-j.-sutherland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jinhwan Seo</title>
       <link>https://won-bae.github.io/authors/jinhwan-seo/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://won-bae.github.io/authors/jinhwan-seo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Junhyug Noh</title>
-      <link>https://won-bae.github.io/authors/junhyug-noh/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/junhyug-noh/</guid>
       <description></description>
     </item>
     
@@ -217,14 +225,6 @@ Prior to UBC, I obtained my bachelor&amp;rsquo;s and master&amp;rsquo;s from UC 
 
 &lt;!-- , worked as a research intern in &lt;a href=&#34;http://vision.snu.ac.kr/&#34;&gt;Vision &amp; Learning Lab&lt;/a&gt; at Seoul National University under the supervision of &lt;a href=&#34;http://vision.snu.ac.kr/~gunhee/&#34;&gt;Prof. Gunhee Kim&lt;/a&gt;. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Jing Wang</title>
-      <link>https://won-bae.github.io/authors/jing-wang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/jing-wang/</guid>
-      <description></description>
     </item>
     
   </channel>
