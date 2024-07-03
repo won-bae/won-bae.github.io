@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiahong Chen | Won&#39;s Page</title>
+    <link>https://won-bae.github.io/authors/jiahong-chen/</link>
+      <atom:link href="https://won-bae.github.io/authors/jiahong-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiahong Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://won-bae.github.io/img/icon-192.png</url>
+      <title>Jiahong Chen</title>
+      <link>https://won-bae.github.io/authors/jiahong-chen/</link>
+    </image>
+    
+    <item>
+      <title>What Has Been Overlooked in Contrastive Source-Free Domain Adaptation: Leveraging Source-Informed Latent Augmentation within Neighborhood Context</title>
+      <link>https://won-bae.github.io/publication/jing-2024-adaptation/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/jing-2024-adaptation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
