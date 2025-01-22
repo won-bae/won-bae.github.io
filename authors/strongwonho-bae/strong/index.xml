@@ -5,12 +5,20 @@
     <link>https://won-bae.github.io/authors/strongwonho-bae/strong/</link>
       <atom:link href="https://won-bae.github.io/authors/strongwonho-bae/strong/index.xml" rel="self" type="application/rss+xml" />
     <description>&lt;strong&gt;Wonho Bae&lt;/strong&gt;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>&lt;strong&gt;Wonho Bae&lt;/strong&gt;</title>
       <link>https://won-bae.github.io/authors/strongwonho-bae/strong/</link>
     </image>
+    
+    <item>
+      <title>Uncertainty Herding: One Active Learning Method for All Label Budgets</title>
+      <link>https://won-bae.github.io/publication/bae-2025-uherding/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/bae-2025-uherding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring Active Learning in Meta-Learning: Enhancing Context Set Labeling</title>
