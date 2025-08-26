@@ -5,7 +5,7 @@
     <link>https://won-bae.github.io/authors/</link>
       <atom:link href="https://won-bae.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,40 @@
     <item>
       <title>&lt;strong&gt;Wonho Bae&lt;/strong&gt;</title>
       <link>https://won-bae.github.io/authors/strongwonho-bae/strong/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://won-bae.github.io/authors/strongwonho-bae/strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jihyun Yu</title>
+      <link>https://won-bae.github.io/authors/jihyun-yu/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/jihyun-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junhyug Noh</title>
+      <link>https://won-bae.github.io/authors/junhyug-noh/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/junhyug-noh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingyu Kim*</title>
+      <link>https://won-bae.github.io/authors/mingyu-kim/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/mingyu-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoojin Oh</title>
+      <link>https://won-bae.github.io/authors/yoojin-oh/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/authors/yoojin-oh/</guid>
       <description></description>
     </item>
     
@@ -41,14 +73,6 @@
       <link>https://won-bae.github.io/authors/jing-wang/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://won-bae.github.io/authors/jing-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Junhyug Noh</title>
-      <link>https://won-bae.github.io/authors/junhyug-noh/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://won-bae.github.io/authors/junhyug-noh/</guid>
       <description></description>
     </item>
     

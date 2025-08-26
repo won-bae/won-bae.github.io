@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mingyu Kim* | Won&#39;s Page</title>
+    <link>https://won-bae.github.io/authors/mingyu-kim/</link>
+      <atom:link href="https://won-bae.github.io/authors/mingyu-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mingyu Kim*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://won-bae.github.io/img/icon-192.png</url>
+      <title>Mingyu Kim*</title>
+      <link>https://won-bae.github.io/authors/mingyu-kim/</link>
+    </image>
+    
+    <item>
+      <title>SteeringTTA: Guiding Diffusion Trajectories for Robust Test-Time-Adaptation</title>
+      <link>https://won-bae.github.io/publication/yu-2025-steering/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/yu-2025-steering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

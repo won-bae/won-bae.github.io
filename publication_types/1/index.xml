@@ -5,12 +5,20 @@
     <link>https://won-bae.github.io/publication_types/1/</link>
       <atom:link href="https://won-bae.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://won-bae.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://won-bae.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>SteeringTTA: Guiding Diffusion Trajectories for Robust Test-Time-Adaptation</title>
+      <link>https://won-bae.github.io/publication/yu-2025-steering/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://won-bae.github.io/publication/yu-2025-steering/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Uncertainty Herding: One Active Learning Method for All Label Budgets</title>
